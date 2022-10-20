@@ -1,3 +1,6 @@
 [submodule "java/springpetclinic"]
 	path = spring-petclinic
 	url = https://github.com/spring-projects/spring-petclinic.git
+[submodule "java\\gameoflife"]
+	path = game-of-life
+	url = https://github.com/wakaleo/game-of-life.git
